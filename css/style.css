@@ -4,7 +4,11 @@ body {
 
 h1 {
   color: blue;
+<<<<<<< HEAD
   font-size: 3em;
+=======
+  font-size: 3em; 
+>>>>>>> 0c399d384881048af8b6faa3d34a0d1bb6ce3662
 }
 
 h2 {
